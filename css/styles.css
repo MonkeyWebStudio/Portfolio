@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #bb3b0e;
+  height: 80px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  margin: 30px auto 35px auto;
+}
+
+.ptop{
+    color: #bb3b0e;
+}
+
+.top-container{
+  background-color: #d8c593;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+  margin: auto auto 0 auto;
+}
+
+.middle-container{
+}
+
+.skillstext{
+  color: #d8c593;
+}
+
+.hellotext{
+  color: #708160;
+}
+
+.getintouchtext{
+  color: #bb3b0e;    
+}
+
+.bottom-container{
+  background-color: #bb3b0e;
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.skills{
+  background-color: #708160;
+  padding-top: 20px;
+  padding-bottom:20px;
+
+}
+.toscalogo{
+  width: 100px;
+}
+
+.scrumlogo{
+  width: 100px;
+}
+
+.bottom-container{
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
